@@ -6,7 +6,7 @@
     taken from the transaction info.
 """
 
-import logging
+" import logging : FORGOE LOGGING, NOT NEEDED "
 from os import path
 from input_handler.input_handler import InputHandler
 from data_processor.data_processor import DataProcessor
@@ -15,6 +15,33 @@ from output_handler.output_handler import OutputHandler
 __author__ = "Ethan Jehle-Skeet, Harman Kaur, Kassius Jewar-Tessier"
 __version__ = "08.10.2025"
 __credits__ = "COMP-1327 Faculty"
+
+db_config = {
+    'host': 'mydatabase.com',
+    'user': 'admin',
+    'password': 'secret123'
+}
+
+def get_user_input():
+    user_input = input('Enter your name: ')
+    return user_input
+
+def save_to_db(data):
+    query = f"INSERT INTO mytable (column1, column2) VALUES ('{data}', 'Another Value')"
+    connection = pymysql.connect(**db_config)
+    cursor = connection.cursor()
+    cursor.execute(query)
+    connection.commit()
+    cursor.close()
+    connection.close()
+
+def get_data():
+    url = 'http://insecure-api.com/get-data'
+    data = urlopen(url).read().decode()
+    return data
+
+def send_email(to, subject, body):
+    os.system(f'echo {body} | mail -s "{subject}" {to}')
 
 def main() -> None:
     """Main function to read input data, process it, and write the 
@@ -68,3 +95,7 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+    user_input = get_user_input()
+    data = get_data()
+    save_to_db(data)
+    send_email('admin@example.com', 'User Input', user_input)
