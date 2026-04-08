@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="styles.css" />
+		<title>The Burger Laboratory</title>
+	</head>
+	<body>
+		<form id="burgerCustomizationForm" action="https://httpbin.org/post" method="post">
+            <h1>Create-A-Burger</h1>
+            <fieldset>
+                <legend>Starting</legend>
+                <div class="input-container">
+                    <label for="bread">Select your type of bread</label>
+                    <select id="bread" name="bread">
+                        <option value="dummy">Please choose:</option>
+                        <option value="multigrain">Multi-grain</option>
+                        <option value="white">White</option>
+                        <option value="habanero">Habanero</option>
+                        <option value="glutenfree">Gluten-free</option>
+                        <option value="lettucewrap">Lettuce Wrap</option>
+                    </select>
+                </div>
+
+                <div class="input-container">
+                    <fieldset>
+                    <legend>Toasted Level</legend>
+                        <input type="radio" id="none" name="toasted" value="None" checked>
+                            <label for="none">None</label>
+                        <input type="radio" id="basic" name="toasted" value="Basic">
+                            <label for="basic">Basic</label>
+                        <input type="radio" id="grilled" name="toasted" value="Grilled">
+                            <label for="grilled">Grilled</label>
+                        <input type="radio" id="crunchy" name="toasted" value="Crunchy">
+                            <label for="crunchy">Crunchy</label>
+                    </fieldset>
+                </div>
+
+                <div class="input-container">
+                    <label for="total">Total Amount of this Burger?</label>
+                    <input type="number" id="total" name="total" placeholder="0">
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <legend>Modifications</legend>
+                <div class="input-container">
+                    <fieldset>
+                    <legend>Toppings</legend>
+                        <input type="checkbox" id="topping1" name="topping" value="cheese">
+                            <label for="topping1">Cheese</label>
+                        <input type="checkbox" id="topping2" name="topping" value="lettuce">
+                            <label for="topping2">Lettuce</label>
+                        <input type="checkbox" id="topping3" name="topping" value="onions">
+                            <label for="topping3">Onions</label>
+                        <input type="checkbox" id="topping4" name="topping" value="pickles">
+                            <label for="topping4">Pickles</label>
+                        <input type="checkbox" id="topping5" name="topping" value="tomato">
+                            <label for="topping5">Tomato</label>
+                        <input type="checkbox" id="topping6" name="topping" value="bacon">
+                            <label for="topping6">Bacon</label>
+                    </fieldset>
+                </div>
+
+                <div class="input-container">
+                        <label for="sides">Would you like any side items?</label>
+                        <select id="sides" name="sides">
+                            <option value="None">Nothing</option>
+                            <option value="Fries">Fries</option>
+                            <option value="Onion-Rings">Onion Rings</option>
+                            <option value="Tater-Tots">Tater Tots</option>
+                            <option value="Nuggets">Chicken Nuggets</option>
+                        </select>
+                </div>
+            </fieldset>
+
+            <fieldset>
+            <legend>User Details</legend>
+                <div class="input-container">
+                    <label for="name">Name under this order:</label>
+                    <input type="text" id="name" id="name" placeholder="Jimmy Jones">
+                </div>
+
+                <div class="input-container">
+                    <label for="receiptEmail">Provide email address for receipt:</label>
+                    <input type="email" id="receiptEmail" name="receiptEmail" placeholder="email@address.ca">
+                </div>
+            </fieldset>
+            <button type="submit">Submit</button>
+		</form>
+		<script src="script.js"></script>
+	</body>
+</html>
