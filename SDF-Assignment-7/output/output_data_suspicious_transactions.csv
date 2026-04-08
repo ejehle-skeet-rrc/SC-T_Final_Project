@@ -1,0 +1,8 @@
+Transaction ID,Account number,Date,Transaction type,Amount,Currency,Description
+11,1001,2023-03-13,deposit,12000,CAD,Car Sale
+12,1002,2023-03-14,withdrawal,11000,CAD,House Down Payment
+13,1001,2023-03-14,deposit,250,XRP,Crypto Investment
+14,1002,2023-03-14,deposit,450,LTC,Crypto Investment
+16,1004,2023-03-01,deposit,11500,CAD,Salary
+27,1005,2023-03-14,deposit,2030,XRP,Crypto Investment
+28,1006,2023-03-14,deposit,1520,LTC,Crypto Investment

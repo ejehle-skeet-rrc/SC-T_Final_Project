@@ -1,0 +1,91 @@
+08/09/2025 - 19:01 - Account summary updated: 1001 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '1', 'Account number': '1001', 'Date': '2023-03-01', 'Transaction type': 'deposit', 'Amount': '1000', 'Currency': 'CAD', 'Description': 'Salary'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1002 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '2', 'Account number': '1002', 'Date': '2023-03-01', 'Transaction type': 'deposit', 'Amount': '1500', 'Currency': 'CAD', 'Description': 'Salary'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1001 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '3', 'Account number': '1001', 'Date': '2023-03-02', 'Transaction type': 'withdrawal', 'Amount': '200', 'Currency': 'CAD', 'Description': 'Groceries'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: withdrawal - INFO
+08/09/2025 - 19:01 - Account summary updated: 1001 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '4', 'Account number': '1001', 'Date': '2023-03-03', 'Transaction type': 'transfer', 'Amount': '500', 'Currency': 'CAD', 'Description': 'Transfer to Savings'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: transfer - INFO
+08/09/2025 - 19:01 - Account summary updated: 1002 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '5', 'Account number': '1002', 'Date': '2023-03-03', 'Transaction type': 'withdrawal', 'Amount': '300', 'Currency': 'CAD', 'Description': 'Shopping'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: withdrawal - INFO
+08/09/2025 - 19:01 - Account summary updated: 1002 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '6', 'Account number': '1002', 'Date': '2023-03-05', 'Transaction type': 'deposit', 'Amount': '100', 'Currency': 'EUR', 'Description': 'Gift'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1001 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '7', 'Account number': '1001', 'Date': '2023-03-07', 'Transaction type': 'withdrawal', 'Amount': '100', 'Currency': 'CAD', 'Description': 'Bills'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: withdrawal - INFO
+08/09/2025 - 19:01 - Account summary updated: 1002 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '8', 'Account number': '1002', 'Date': '2023-03-10', 'Transaction type': 'deposit', 'Amount': '200', 'Currency': 'CAD', 'Description': 'Refund'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1001 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '9', 'Account number': '1001', 'Date': '2023-03-12', 'Transaction type': 'withdrawal', 'Amount': '150', 'Currency': 'CAD', 'Description': 'Entertainment'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: withdrawal - INFO
+08/09/2025 - 19:01 - Account summary updated: 1002 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '10', 'Account number': '1002', 'Date': '2023-03-12', 'Transaction type': 'transfer', 'Amount': '250', 'Currency': 'CAD', 'Description': 'Transfer to Savings'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: transfer - INFO
+08/09/2025 - 19:01 - Account summary updated: 1001 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '11', 'Account number': '1001', 'Date': '2023-03-13', 'Transaction type': 'deposit', 'Amount': '12000', 'Currency': 'CAD', 'Description': 'Car Sale'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1002 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '12', 'Account number': '1002', 'Date': '2023-03-14', 'Transaction type': 'withdrawal', 'Amount': '11000', 'Currency': 'CAD', 'Description': 'House Down Payment'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: withdrawal - INFO
+08/09/2025 - 19:01 - Account summary updated: 1001 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '13', 'Account number': '1001', 'Date': '2023-03-14', 'Transaction type': 'deposit', 'Amount': '250', 'Currency': 'XRP', 'Description': 'Crypto Investment'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1002 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '14', 'Account number': '1002', 'Date': '2023-03-14', 'Transaction type': 'deposit', 'Amount': '450', 'Currency': 'LTC', 'Description': 'Crypto Investment'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1003 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '15', 'Account number': '1003', 'Date': '2023-03-01', 'Transaction type': 'deposit', 'Amount': '5000', 'Currency': 'CAD', 'Description': 'Salary'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1004 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '16', 'Account number': '1004', 'Date': '2023-03-01', 'Transaction type': 'deposit', 'Amount': '11500', 'Currency': 'CAD', 'Description': 'Salary'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1005 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '17', 'Account number': '1005', 'Date': '2023-03-02', 'Transaction type': 'withdrawal', 'Amount': '2200', 'Currency': 'CAD', 'Description': 'Groceries'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: withdrawal - INFO
+08/09/2025 - 19:01 - Account summary updated: 1006 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '18', 'Account number': '1006', 'Date': '2023-03-03', 'Transaction type': 'transfer', 'Amount': '5050', 'Currency': 'CAD', 'Description': 'Transfer to Savings'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: transfer - INFO
+08/09/2025 - 19:01 - Account summary updated: 1007 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '19', 'Account number': '1007', 'Date': '2023-03-03', 'Transaction type': 'withdrawal', 'Amount': '1300', 'Currency': 'CAD', 'Description': 'Shopping'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: withdrawal - INFO
+08/09/2025 - 19:01 - Account summary updated: 1003 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '20', 'Account number': '1003', 'Date': '2023-03-05', 'Transaction type': 'deposit', 'Amount': '1100', 'Currency': 'EUR', 'Description': 'Gift'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1004 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '21', 'Account number': '1004', 'Date': '2023-03-07', 'Transaction type': 'withdrawal', 'Amount': '1200', 'Currency': 'CAD', 'Description': 'Bills'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: withdrawal - INFO
+08/09/2025 - 19:01 - Account summary updated: 1005 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '22', 'Account number': '1005', 'Date': '2023-03-10', 'Transaction type': 'deposit', 'Amount': '222', 'Currency': 'CAD', 'Description': 'Refund'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1006 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '23', 'Account number': '1006', 'Date': '2023-03-12', 'Transaction type': 'withdrawal', 'Amount': '155', 'Currency': 'CAD', 'Description': 'Entertainment'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: withdrawal - INFO
+08/09/2025 - 19:01 - Account summary updated: 1007 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '24', 'Account number': '1007', 'Date': '2023-03-12', 'Transaction type': 'transfer', 'Amount': '252', 'Currency': 'CAD', 'Description': 'Transfer to Savings'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: transfer - INFO
+08/09/2025 - 19:01 - Account summary updated: 1003 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '25', 'Account number': '1003', 'Date': '2023-03-13', 'Transaction type': 'deposit', 'Amount': '1200', 'Currency': 'CAD', 'Description': 'Car Sale'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1004 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '26', 'Account number': '1004', 'Date': '2023-03-14', 'Transaction type': 'withdrawal', 'Amount': '1100', 'Currency': 'CAD', 'Description': 'House Down Payment'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: withdrawal - INFO
+08/09/2025 - 19:01 - Account summary updated: 1005 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '27', 'Account number': '1005', 'Date': '2023-03-14', 'Transaction type': 'deposit', 'Amount': '2030', 'Currency': 'XRP', 'Description': 'Crypto Investment'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1006 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '28', 'Account number': '1006', 'Date': '2023-03-14', 'Transaction type': 'deposit', 'Amount': '1520', 'Currency': 'LTC', 'Description': 'Crypto Investment'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1007 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '29', 'Account number': '1007', 'Date': '2023-03-01', 'Transaction type': 'deposit', 'Amount': '100', 'Currency': 'CAD', 'Description': 'Salary'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Account summary updated: 1003 - INFO
+08/09/2025 - 19:01 - Suspicious Transaction: {'Transaction ID': '30', 'Account number': '1003', 'Date': '2023-03-01', 'Transaction type': 'deposit', 'Amount': '150', 'Currency': 'CAD', 'Description': 'Salary'} - WARNING
+08/09/2025 - 19:01 - Updated transaction statistics for: deposit - INFO
+08/09/2025 - 19:01 - Data Processing Complete - INFO
